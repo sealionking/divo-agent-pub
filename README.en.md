@@ -1,8 +1,8 @@
 <div align="center">
 
-# DiVo Agent Platform — Enterprise AI Agent Workspace Governance
+# DiVo Agent Platform — Enterprise AI Agent Autonomous Governance
 
-**Run your AI Agents on infrastructure you actually control**
+**Data private · Custom workflow · Tools & skills all self-controlled · Let agents dance in chains**
 
 English · [中文](README.md)
 
