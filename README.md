@@ -132,19 +132,9 @@ DiVo Agent Platform 以 **DiVo Agent Harness** 为内核，所有组件打包成
 
 ---
 
-## 快速体验
+## 体验与评估
 
-```bash
-# 一键启动单节点体验（授权给企业评估试用）
-curl -fsSL https://get.divo.ai | bash
-
-# 或 Docker
-docker run -p 8080:8080 -v divo-data:/data divo/agent-platform:latest
-```
-
-启动后访问 `http://localhost:8080`，5 分钟创建一个带 LLM 的 Agent 沙箱。
-
-> 评估和 POV 免费。商用部署请咨询 `contact@wangjueju.cn`。
+评估镜像与 POV 环境请咨询 `contact@wangjueju.cn` 获取。
 
 ---
 
