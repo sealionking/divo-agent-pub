@@ -6,7 +6,7 @@
 
 [English](README.en.md) · 中文
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)](LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](LICENSE)](LICENSE)
 
 </div>
 
